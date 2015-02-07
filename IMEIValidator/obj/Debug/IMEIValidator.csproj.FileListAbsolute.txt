@@ -1,0 +1,8 @@
+C:\Lemon\Personal\Desktop\Sync\VSProjects\HPDD\IMEIValidator\IMEIValidator\bin\Debug\IMEIValidator.exe
+C:\Lemon\Personal\Desktop\Sync\VSProjects\HPDD\IMEIValidator\IMEIValidator\bin\Debug\IMEIValidator.pdb
+C:\Lemon\Personal\Desktop\Sync\VSProjects\HPDD\IMEIValidator\IMEIValidator\obj\Debug\IMEIValidator.MainForm.resources
+C:\Lemon\Personal\Desktop\Sync\VSProjects\HPDD\IMEIValidator\IMEIValidator\obj\Debug\IMEIValidator.Properties.Resources.resources
+C:\Lemon\Personal\Desktop\Sync\VSProjects\HPDD\IMEIValidator\IMEIValidator\obj\Debug\IMEIValidator.csproj.GenerateResource.Cache
+C:\Lemon\Personal\Desktop\Sync\VSProjects\HPDD\IMEIValidator\IMEIValidator\obj\Debug\IMEIValidator.exe
+C:\Lemon\Personal\Desktop\Sync\VSProjects\HPDD\IMEIValidator\IMEIValidator\obj\Debug\IMEIValidator.pdb
+C:\Lemon\Personal\Desktop\Sync\VSProjects\HPDD\IMEIValidator\IMEIValidator\obj\Debug\IMEIValidator.csprojResolveAssemblyReference.cache
